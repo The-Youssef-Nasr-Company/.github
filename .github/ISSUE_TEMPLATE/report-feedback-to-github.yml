@@ -1,0 +1,14 @@
+name: "GitHub README Feedback Report (README Showing in Organisations)"
+description: "Send feedback to GitHub about showing READMEs in organisations"
+title: "[GitHub Feedback Report]"
+labels: []
+body:
+- type: dropdown
+  attributes:
+    label: Type of feedback
+    description: |
+     What's the type of feedback this really needs to be sent to GitHub?
+    options: |
+     - It's badly made by GitHub
+     - It's annoyingly made for GitHub orgs
+       
