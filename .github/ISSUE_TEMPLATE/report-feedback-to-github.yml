@@ -5,10 +5,11 @@ labels: []
 body:
 - type: dropdown
   attributes:
-    label: Type of feedback
-    description: |
-     What's the type of feedback this really needs to be sent to GitHub?
-    options: |
-     - It's badly made by GitHub
-     - It's annoyingly made for GitHub orgs
-       
+   label: Type of feedback
+   description: |
+    What's the type of feedback this really needs to be sent to GitHub?
+   options: |
+    - It's badly made by GitHub
+    - It's annoyingly made for GitHub orgs
+   validations:
+    required: true
