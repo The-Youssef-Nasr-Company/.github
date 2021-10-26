@@ -16,7 +16,7 @@ We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral ani
 				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
 			</ul>
 		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
+		<li>By the way, <a href="https://github.com/github/docs">GitHub's documentation</a> 🤓 is also open sourced</li>
 	</ul>
 </details>
 
