@@ -11,5 +11,3 @@ body:
    options: |
     - It's badly made by GitHub
     - It's annoyingly made for GitHub orgs
-   validations:
-    required: true
