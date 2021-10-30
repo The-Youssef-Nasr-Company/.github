@@ -10,7 +10,7 @@ We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral ani
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li>Youssef Land is built using weak 👶 open source technologies like CSS and <a href="https://github.com/golang">Go (mighty to the CLI of Youssef Land)</a> among others.</li>
+	<li>Youssef Land is built using weak 👶 open source technologies like CSS and <a href="https://github.com/golang">Go (mighty 🔨 to the CLI of Youssef Land)</a> among others.</li>
 		<li>The open source project The Youssef Nasr Company has used 👨‍💻 mostly is:
 			<ul>
 				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
