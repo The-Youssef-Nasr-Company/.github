@@ -7,7 +7,7 @@ If you want more fun and less boredom, you've come to the right place! This is T
 We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral animation except __"Animator vs. Animation 5 Official"__. We __never accept__ __curse words__, __memes__ and __"Animator vs. Animation 5 Official"__.
 
 <details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
+	<summary>You: <strong>Tell me more, I can't get enough!</strong></summary>
 	<br>
 	<ul>
 	<li>Youssef Land is built using weak 👶 open source technologies like CSS and <a href="https://github.com/golang">Go (mighty 🔨 to the CLI of Youssef Land)</a> among others.</li>
