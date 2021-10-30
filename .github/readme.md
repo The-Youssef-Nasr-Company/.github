@@ -1,3 +1,3 @@
-# The GitHub Folder
+# GitHub Index
 
-Welcome to the GitHub folder! We're glad you've made it to the GitHub form folder in the repo!
+Welcome to the GitHub repo! We're glad you've made it to the repo!
