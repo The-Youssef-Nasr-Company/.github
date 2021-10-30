@@ -22,7 +22,5 @@ We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral ani
 	</ul>
 </details>
 
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile). (From: __[GitHub](https://github.com/github)__)</sub>
 
