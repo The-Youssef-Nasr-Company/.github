@@ -1,6 +1,6 @@
 # Hey, this is us 👋
 
-![Image about Octocats and the Octocat holding something](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+[![Image about Octocats and the Octocat holding something](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)](https://github.com/github)
 If you want more fun and less boredom, you've come to the right place! This is The Youssef Nasr Company! We have a CLI for Youssef Land, Youssef Land, and [much more](https://github.com/orgs/The-Youssef-Nasr-Company/repositories)! When you want any fun, The Youssef Nasr Company is always here!
 
 ## Rules
