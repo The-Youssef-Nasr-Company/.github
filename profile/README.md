@@ -7,13 +7,13 @@ If you want more fun and less boredom, you've come to the right place! This is T
 
 We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral animation except __"Animator vs. Animation 5 Official"__. We __never accept__ __curse words__, __memes__ and __"Animator vs. Animation 5 Official"__.
 
-# Talk
+## Talk
 
 <details> 
 	<summary>You: <strong>Tell me more, I can't get enough!</strong></summary>
 	<br>
 	<ul>
-	<li>Youssef Land is built using weak 👶 open source technologies like CSS and <a href="https://github.com/golang">Go (mighty 🔨 to the CLI of Youssef Land)</a> among others.</li>
+	<li>Youssef Land is built using weak 👶 and strong 💪🏻 open source technologies like CSS and <a href="https://github.com/golang">Go (mighty 🔨💪🏻 to the CLI of Youssef Land)</a> among others.</li>
 		<li>The open source projects The Youssef Nasr Company has used 👨‍💻 mostly is:
 			<ul>
 				<li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
@@ -24,7 +24,7 @@ We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral ani
 	</ul>
 </details>
 
-### END!!
+## END!!
 
 <sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile). (From: __[GitHub](https://github.com/github)__)</sub>
 
