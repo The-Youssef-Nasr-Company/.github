@@ -5,7 +5,7 @@ If you want more fun and less boredom, you've come to the right place! This is T
 
 ## Rules
 
-We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral animation except __"Animator vs. Animation 5 Official"__. We __never accept__ __curse words__, __memes__ and __"Animator vs. Animation 5 Official"__.
+We _accept_ __no swear words__, _good words_, __no memes except Troll Face, Sonic and Tails Dance and Henry Stickmin Distraction Dance__ and viral animation except __"Animator vs. Animation V Official"__. We __never accept__ __swear words__, __memes excluding Troll Face, Sonic and Tails Dance and Henry Stickmin Distraction Dance__ and __"Animator vs. Animation V Official"__.
 
 ## Talk
 
@@ -20,7 +20,7 @@ We _accept_ __no__ __curse words__, _good words_, __no__ __memes__ and viral ani
 				<li><a href="https://visualstudio.microsoft.com">Visual Studio</a></li>
 			</ul>
 		</li>
-		<li>By the way, <a href="https://github.com/github/docs">GitHub's documentation</a> 🤓 is also open sourced</li>
+		<li>By the way, <a href="https://github.com/github/docs">GitHub's documentation</a> 🤓 is also open sourced!</li>
 	</ul>
 </details>
 
